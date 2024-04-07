@@ -1,0 +1,4 @@
+#ignoring text files
+#contains test output and input
+
+*.txt
