@@ -1,0 +1,4 @@
+[submodule "ManageClass"]
+	path = ManageClass
+	url = git@github.com:davies-tl/ManageClass.git
+	branch = master
