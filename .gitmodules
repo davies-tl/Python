@@ -1,4 +1,9 @@
+# Submodules updated 04/09/2024
+#
 [submodule "ManageClass"]
 	path = ManageClass
 	url = git@github.com:davies-tl/ManageClass.git
 	branch = master
+#
+# New submodules will appear below.
+#
